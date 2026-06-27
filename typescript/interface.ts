@@ -76,3 +76,5 @@
 //     renk: "red"
 // }
 // console.log(traffic)
+
+// npx tsx "file name"
